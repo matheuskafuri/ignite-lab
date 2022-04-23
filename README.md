@@ -4,7 +4,9 @@ GraphQL
 Apache Kafka
 Next.js
 Apollo Client (GraphQL)
+
 **Funcionalidades
+
 **Serviço de compras (purchases)
 [Admin] Cadastro de produtos
 
